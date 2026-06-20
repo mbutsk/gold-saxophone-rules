@@ -1,7 +1,7 @@
 # золотой стандарт саксофона
 
 помимо `README.md` этот репозиторий содержит
-файлы [`gold-saxaphone-lyrics.json`](gold-saxaphone-lyrics.json) и [`gold-saxaphone-rules.md`](gold-saxaphone-rules.md)
+файлы [`gold-saxophone-lyrics.json`](gold-saxophone-lyrics.json) и [`gold-saxophone-rules.md`](gold-saxophone-rules.md)
 
 ## че это ваще такое
 
@@ -27,3 +27,6 @@
 при добавлении саксофона в свой проект
 
 > "да прибудет с вами саксофон!" - семен павлович собакин
+
+P.S. [звезданите](https://github.com/mbutsk/gold-saxophone-rules)
+пж репозиторий чтобы распространить саксофонство
